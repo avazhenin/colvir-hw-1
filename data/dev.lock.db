@@ -1,0 +1,6 @@
+#FileLock
+#Wed Jun 19 23:16:52 ALMT 2024
+server=192.168.31.223\:55999
+hostName=mac
+method=file
+id=190318055363883395b5a64c88726ac972649e7bef9
